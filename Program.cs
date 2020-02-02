@@ -17,7 +17,6 @@ namespace helloWorldCS
                 }
             }
             Console.WriteLine(message);
-            Console.WriteLine(message);
         }
     }
 }
