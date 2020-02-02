@@ -1,0 +1,11 @@
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.csprojAssemblyReference.cache
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.csproj.CoreCompileInputs.cache
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.AssemblyInfoInputs.cache
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.AssemblyInfo.cs
+/home/cpdundon/c_sharp/helloWorldCS/bin/Debug/netcoreapp2.2/helloWorldCS.deps.json
+/home/cpdundon/c_sharp/helloWorldCS/bin/Debug/netcoreapp2.2/helloWorldCS.runtimeconfig.json
+/home/cpdundon/c_sharp/helloWorldCS/bin/Debug/netcoreapp2.2/helloWorldCS.runtimeconfig.dev.json
+/home/cpdundon/c_sharp/helloWorldCS/bin/Debug/netcoreapp2.2/helloWorldCS.dll
+/home/cpdundon/c_sharp/helloWorldCS/bin/Debug/netcoreapp2.2/helloWorldCS.pdb
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.dll
+/home/cpdundon/c_sharp/helloWorldCS/obj/Debug/netcoreapp2.2/helloWorldCS.pdb
